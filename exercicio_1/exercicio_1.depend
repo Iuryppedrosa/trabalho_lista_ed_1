@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1753820514 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\trabalho1_iury_pedrosa\exercicio_1\main.c
+	<stdio.h>
+	<string.h>
+	"lista_ordenada_estatica_sequencial_string.h"
+
+1753837257 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\trabalho1_iury_pedrosa\exercicio_1\lista_ordenada_estatica_sequencial_string.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista_ordenada_estatica_sequencial_string.h"
+
+1753837257 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\trabalho1_iury_pedrosa\exercicio_1\lista_ordenada_estatica_sequencial_string.h
+
