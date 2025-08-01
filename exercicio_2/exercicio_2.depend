@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1754076062 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\trabalho1_iury_pedrosa\exercicio_2\lista_dinamica_duplamente_encad.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_dinamica_duplamente_encad.h"
+
+1754076098 c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\trabalho1_iury_pedrosa\exercicio_2\lista_dinamica_duplamente_encad.h
+
+1754074956 source:c:\users\iuryp\onedrive\desktop\pessoal\ufu\estudos\semestre_2\ed_1\trabalho1_iury_pedrosa\exercicio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_dinamica_duplamente_encad.h"
+
