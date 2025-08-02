@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1754157436 source:c:\users\moret\onedrive\Área de trabalho\estrutura de dados i\trabalho i\ex.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DiEnSim.h"
+
+1754157414 c:\users\moret\onedrive\Área de trabalho\estrutura de dados i\trabalho i\ex.4\diensim.h
+
+1754157405 source:c:\users\moret\onedrive\Área de trabalho\estrutura de dados i\trabalho i\ex.4\diensim.c
+	<stdio.h>
+	<stdlib.h>
+	"DiEnSim.h"
+
