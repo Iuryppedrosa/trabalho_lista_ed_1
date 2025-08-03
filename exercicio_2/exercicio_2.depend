@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1754237468 source:c:\users\leand\desktop\tad_trabalho\questao_02\tad_list_estatica_q2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list_estatic.h"
+
+1754240734 c:\users\leand\desktop\tad_trabalho\questao_02\tad_list_estatica_q2\list_estatic.h
+
+1754246480 source:c:\users\leand\desktop\tad_trabalho\questao_02\tad_list_estatica_q2\list_estatic.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"list_estatic.h"
+
+1754247674 source:c:\users\leand\desktop\tad_trabalho\questao_02\exercicio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list_estatic.h"
+
+1754240734 c:\users\leand\desktop\tad_trabalho\questao_02\exercicio_2\list_estatic.h
+
