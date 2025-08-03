@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1754230986 source:c:\users\moret\onedrive\Área de trabalho\estrutura de dados i\trabalho i\ex.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DinEnCab.h"
+
+1754232009 c:\users\moret\onedrive\Área de trabalho\estrutura de dados i\trabalho i\ex.3\dinencab.h
+
+1754232017 source:c:\users\moret\onedrive\Área de trabalho\estrutura de dados i\trabalho i\ex.3\dinencab.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"DinEnCab.h"
+
