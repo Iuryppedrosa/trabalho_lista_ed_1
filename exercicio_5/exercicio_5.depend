@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1754251402 source:c:\users\leand\desktop\tad_trabalho\questao_05\exercicio_5\tad_circ.c
+	<stdio.h>
+	<stdlib.h>
+	"tad_circ.h"
+
+1754251291 c:\users\leand\desktop\tad_trabalho\questao_05\exercicio_5\tad_circ.h
+
